@@ -1,4 +1,4 @@
-# IR-vs-FatContent-in-Meat
+# Establishing a predictive model for Fat Content in meat using Infared Absorbance 
 
 Traditional analytical chemistry methods are used to accurately measure the fat content in foods. However, these can be expensive and sometimes overkill in cases like routine quality control, educational settings, and other non-critical applications. 
 
